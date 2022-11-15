@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<title></title>
+
+<head>
+    <script>
+        <!--
+        var count = 9
+        document.write("Start of Count<br>")
+        document.write("--------------------------<br>")
+        while (count <= 100) {
+            document.write("Current Count: > " + count + "<br>")
+            count++
+        }
+        document.write("<br>End of loop")
+        //-->
+    </script>
+</head>
+
+<body>
+</body>
+
+</html>
